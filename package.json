@@ -1,0 +1,17 @@
+{
+  "name": "openclaw-coinglass-derivatives",
+  "version": "0.1.0",
+  "description": "OpenClaw skill for collecting public Coinglass derivatives data for daily crypto market reports.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "fetch": "node scripts/fetch-coinglass.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.54.0"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
