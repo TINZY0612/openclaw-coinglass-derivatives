@@ -15,7 +15,7 @@ This OpenClaw skill uses Playwright browser automation to read public Coinglass 
 
 Core idea:
 
-> Coinglass API requires a paid API key, but the public website renders many of the same daily derivatives metrics into DOM text and canvas/SVG charts. For low-frequency daily reporting, a browser automation snapshot is often enough.
+> Coinglass API requires a paid API key, but the public website renders many of the same daily derivatives metrics into DOM text and canvas/SVG charts. For low-frequency daily reporting, a browser automation skill can capture useful market data without relying on a paid API.
 
 ## Important notes
 
