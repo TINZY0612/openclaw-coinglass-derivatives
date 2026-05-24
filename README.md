@@ -1,7 +1,7 @@
 # OpenClaw Coinglass Derivatives Skill
 
 <p align="center">
-  <img src="./coinglass-description" alt="OpenClaw Coinglass Derivatives Skill" width="100%">
+  <img src="coinglass-description.png" alt="OpenClaw Coinglass Derivatives Skill" width="100%">
 </p>
 
 Free Coinglass public-webpage data collector for daily crypto market reports.
