@@ -1,5 +1,9 @@
 # OpenClaw Coinglass Derivatives Skill
 
+<p align="center">
+  <img src="coinglass-description.png" alt="OpenClaw Coinglass Derivatives Skill" width="100%">
+</p>
+
 Free Coinglass public-webpage data collector for daily crypto market reports.
 
 This OpenClaw skill uses Playwright browser automation to read public Coinglass pages and save:
@@ -79,8 +83,7 @@ sudo bash scripts/install-systemd.sh
 Default schedule:
 
 - UTC 23:50
-- Beijing / Kuala Lumpur time 07:50
-- Intended to run before an 08:00 daily crypto report agent
+- Intended to run before an 00:00 daily crypto report agent
 
 ## Output structure
 
